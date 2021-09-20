@@ -3,11 +3,11 @@
 TEST CASES
 
 1. Drop down 
-    1. Drop down responds to click
-    2. Drop down values: 
-        2.1. Group by Function
-        2.2 Group by Role
-    3. Upon changing the value, the display in the drop-down changes as well
+    1.1 Drop down responds to click
+    1.2 Drop down values: 
+        1.2.1. Group by Function
+        1.2.2 Group by Role
+    1.3 Upon changing the value, the display in the drop-down changes as well
 
 2. Tabs: 
     1. Group by Function: Ability to toggle between Gender and Race
