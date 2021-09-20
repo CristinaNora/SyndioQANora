@@ -121,7 +121,7 @@ Also, the tabs are not particularly visible on a bad vision or older monitor
 
 NOTES
 
-I would have to understand the context of this dashboard, so I made a lot of presumptions and the test cases are based on those presumptions. There are also more test cases, just did what I could with what I have available
+I would have to understand the context of this dashboard, so I made a lot of presumptions and the test cases are based on those presumptions. There are also more test cases, just did what I could with what I have available.
 
 For matching with mockups I used the Chrome inspect feature.
 
