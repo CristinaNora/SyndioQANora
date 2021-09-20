@@ -8,10 +8,14 @@ TEST CASES
         1. Group by Function
         2. Group by Role
     3. Upon changing the value, the display in the drop-down changes as well
-
+ 
+ 	
+     
 2. Tabs: 
     1. Group by Function: Ability to toggle between Gender and Race
     2. Group by Role: Ability to toggle between Gender and Race
+
+
 
 3. Gender tab contains what’s in the json file as in tabs + content 
  	1. Pay Equity Gap 
@@ -24,27 +28,32 @@ TEST CASES
 		1. Title = tab label
 		2. Content = {value} minimum recommended budget to reduce pay equity gap
 
+
+
 4. UI elements
     1. General look and feel should match the mockups for:
-        1.1 Drop down
-        1.2. Tabs
-        1.3. Text/font
-        1.4. Positioning in the page, etc
+        1. Drop down
+        2. Tabs
+        3. Text/font
+        4. Positioning in the page, etc
     2. Graphic elements specs match what’s in the mockups 
 
+
 5. Responsiveness - without going in details (that I don’t actual spec anyway) the page is responsive in relationship to:
-	5.1. Windows resizing
-	5.2. Screen size (aka mobile, desktop)
-	5.3. Zoom in/out
+	1. Windows resizing
+	2. Screen size (aka mobile, desktop)
+	3. Zoom in/out
+
 
 6. Accessibility - logical tab order, keyboard (enter/space/arrows), focus, readable elements (bigger test bucket here, can develop later)
 
+
 7. Errors:
-	7.1. Check for network errors or any other errors on the page
-	7.2. Verify the GET request goes through
+	1. Check for network errors or any other errors on the page
+	2. Verify the GET request goes through
 
 
-========
+========================
 
 BUGS
 
