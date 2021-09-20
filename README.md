@@ -3,26 +3,26 @@
 TEST CASES
 
 1. Drop down 
-    1.1 Drop down responds to click
-    1.2 Drop down values: 
-        1.2.1. Group by Function
-        1.2.2 Group by Role
-    1.3 Upon changing the value, the display in the drop-down changes as well
+    1. Drop down responds to click
+    2. Drop down values: 
+        1. Group by Function
+        2. Group by Role
+    3. Upon changing the value, the display in the drop-down changes as well
 
 2. Tabs: 
     1. Group by Function: Ability to toggle between Gender and Race
     2. Group by Role: Ability to toggle between Gender and Race
 
-3. Gender tab contains what’s in the json file as in tabs + content:
-	3.1 Pay Equity Gap: 
-		3.1.1 Title = tab label
-		3.1.2. Content = {minority:label} earn {minority:label  for every {majority:value} earned by comparable {majority:label}  
-	3.2. Employees in Comparison: 
-		3.2.1. Title = tab label
-		3.2.2. Content = {label} make up {value} of employees
-	3.3. Budget: 
-		3.3.1. Title = tab label
-		3.3.2. Content = {value} minimum recommended budget to reduce pay equity gap
+3. Gender tab contains what’s in the json file as in tabs + content 
+ 	1. Pay Equity Gap 
+		1. Title = tab label
+		2. Content = {minority:label} earn {minority:label  for every {majority:value} earned by comparable {majority:label}  
+	2. Employees in Comparison: 
+		1. Title = tab label
+		2. Content = {label} make up {value} of employees
+	3. Budget: 
+		1. Title = tab label
+		2. Content = {value} minimum recommended budget to reduce pay equity gap
 
 4. UI elements
     1. General look and feel should match the mockups for:
