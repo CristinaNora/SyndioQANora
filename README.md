@@ -73,6 +73,7 @@ Bug 2: Drop-down is not changing values
 Bug 3: Drop-down Change Group - undefined and confusing to the user
 1. Group by Function drop-down 
 2. Look for the drop down options
+
 *** Change Group - has no logical meaning to be there, unless in itself creates another grouping, but that is inactive and I see no references to it
 
 
