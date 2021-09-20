@@ -57,48 +57,63 @@ TEST CASES
 
 BUGS
 
-== Group by Function grayed out
-1. Group by Function drop down 
+Bug 1: Drop-down Group by Function grayed out
+1. Click on the Group by Function drop down 
 
 *** Group By Function option greyed out and, if I get this right, we want to have access to that option as well, especially since the json is provided and the drop-down value is stuck on that
 
-Drop-down is not changing values
+
+Bug 2: Drop-down is not changing values
 1. Group by Function drop-down 
 2. Choose Group by Role
+
 *** The display is left to Group by Function and should change to Group by Role
 
 
-Change Group - undefined and confusing to the user
+Bug 3: Drop-down Change Group - undefined and confusing to the user
 1. Group by Function drop-down 
 2. Look for the drop down options
 *** Change Group - has no logical meaning to be there, unless in itself creates another grouping, but that is inactive and I see no references to it
 
-Drop-down - won’t close unless clicked on
+
+Bug 4: Drop-down - won’t close unless clicked on
 1. Click on the Group by Function drop-down
 2. Click anywhere else on the screen
+
 *** The drop-down should close without any action. Instead, it stays open and you have to explicitly close it
 
-Misspell in the Budge tab
+
+Bug 5: Misspell in the Budget tab
 1. Take a look at the Budge tab
+
 *** budget should be spelled “budget”, not “buget”
 
-Active tab height doesn’t match mockups
+
+Bug 6: Active tab height doesn’t match mockups
 1. Inspect the active tab
+
 *** Height is 41px and according to the mockups it’s supposed to be 40
 
-Active tab - background color is not matching mockups
+
+Bug 7: Active tab - background color is not matching mockups
 1. Inspect the active tab
+
 *** Body background color is F8F8F8 and according to the mockups it’s supposed to be D8D8D8
 
-Inactive tab - background color
+
+Bug 9: Inactive tab - background color
 1. Inspect the inactive tab
+
 *** The background is transparent. In theory this is a bug, in practice it doesn’t matter as the background color is #F2F2F2 as mentioned in the mockups
 
-Tabs - capitalization doesn’t match the mockups 
+
+Bug 10: Tabs - capitalization doesn’t match the mockups 
 1. Take a look at the tabs
+
 *** in the mockups the tabs are capitalized, while in the app they are not
 
-Accessibility not implemented
+
+Bug 11: Accessibility not implemented
 Several bugs here, as the only thing that seems to work is space on the drop-down
 Also, the tabs are not particularly visible on a bad vision or older monitor
 
@@ -110,7 +125,7 @@ I would have to understand the context of this dashboard, so I made a lot of pre
 
 For matching with mockups I used the Chrome inspect feature.
 
-For checking the mobile I used the Chrome emulator
+For checking the mobile I used the Chrome emulator. I also resizes and check the responsiveness of the page for various displays using the emulator.
 
 ========
 
