@@ -48,7 +48,7 @@ TEST CASES
 
 BUGS
 
-Group by Function grayed out
+== Group by Function grayed out
 1. Group by Function drop down 
 
 *** Group By Function option greyed out and, if I get this right, we want to have access to that option as well, especially since the json is provided and the drop-down value is stuck on that
@@ -96,6 +96,7 @@ Also, the tabs are not particularly visible on a bad vision or older monitor
 ========
 
 NOTES
+
 I would have to understand the context of this dashboard, so I made a lot of presumptions and the test cases are based on those presumptions. There are also more test cases, just did what I could with what I have available
 
 For matching with mockups I used the Chrome inspect feature.
@@ -105,6 +106,7 @@ For checking the mobile I used the Chrome emulator
 ========
 
 QUESTIONS
+
 Json identical between Roles and Function, just different values. Is that supposed to happen?
 
 ========
