@@ -50,9 +50,10 @@ BUGS
 
 Group by Function grayed out
 1. Group by Function drop down 
+
 *** Group By Function option greyed out and, if I get this right, we want to have access to that option as well, especially since the json is provided and the drop-down value is stuck on that
 
-
+Drop-down is not changing values
 1. Group by Function drop-down 
 2. Choose Group by Role
 *** The display is left to Group by Function and should change to Group by Role
