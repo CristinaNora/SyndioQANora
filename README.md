@@ -125,7 +125,7 @@ I would have to understand the context of this dashboard, so I made a lot of pre
 
 For matching with mockups I used the Chrome inspect feature.
 
-For checking the mobile I used the Chrome emulator. I also resizes and check the responsiveness of the page for various displays using the emulator.
+For checking the mobile I used the Chrome emulator. I also resized and check the responsiveness of the page for various displays using the emulator.
 
 ========
 
