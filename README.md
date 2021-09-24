@@ -83,20 +83,25 @@ Bug 4: Drop-down - won’t close unless clicked on
 
 *** The drop-down should close without any action. Instead, it stays open and you have to explicitly close it
 
+Bug 5: Tabs won't change
+1. Click on the Race tab
+2. Click on the Gender tab
 
-Bug 5: Misspell in the Budget tab
+*** They are the same, no matter what, the focus stays on the gender tab, the Race tab is basically useless
+
+Bug 6: Misspell in the Budget tab
 1. Take a look at the Budge tab
 
 *** budget should be spelled “budget”, not “buget”
 
 
-Bug 6: Active tab height doesn’t match mockups
+Bug 7: Active tab height doesn’t match mockups
 1. Inspect the active tab
 
 *** Height is 41px and according to the mockups it’s supposed to be 40
 
 
-Bug 7: Active tab - background color is not matching mockups
+Bug 8: Active tab - background color is not matching mockups
 1. Inspect the active tab
 
 *** Body background color is F8F8F8 and according to the mockups it’s supposed to be D8D8D8
